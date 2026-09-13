@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sino 👋</h1>
-<h3 align="center">3rd Year CS Student | Python • C# • JS Developer</h3>
+<h3 align="center">3rd Year Information Systems & Technologies Student | Python • C# • JS Web & Backend Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SinoKham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
